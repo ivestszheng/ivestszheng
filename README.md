@@ -7,4 +7,4 @@
   </samp>
 </p>
 
-<a href="https://githubroast.dev/u/ivestszheng"><img src="https://githubroast.dev/api/badge/ivestszheng" alt="GitHub Roast 评分徽章" /></a>
+<a href="https://githubroast.dev/u/ivestszheng"><img src="https://githubroast.dev/api/card/ivestszheng" alt="GitHub Roast" width="600" /></a>

@@ -3,6 +3,7 @@
     <a href="https://ivestszheng.github.io">blog</a> .
     <a href="https://github.com/ivestszheng/agent-skills">skills</a> .
     <a href="https://github.com/ivestszheng/userscripts">userscripts</a> .
+    <a href="https://github.com/ivestszheng/usershell">usershell</a> .
     <a href="https://x.com/ivestszheng">tweets</a> .
     <a href="https://space.bilibili.com/3111462">bilibili</a>
   </samp>
